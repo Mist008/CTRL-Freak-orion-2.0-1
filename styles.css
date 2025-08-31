@@ -1,0 +1,62 @@
+*{
+    margin: auto;
+    background-color:#1F003F;
+    color:white;
+}
+h1{
+    text-align:left;
+    font-style:Alumni Sans;
+}
+.meta{
+    color:#EF78CF;
+}
+
+.hack{
+    color:#BCF645;
+}
+
+.date{
+    color:#A6CC49;
+}
+.un{
+    color: #D382DE;
+}
+.register{
+    border:#F949C8 ;
+    border: radius 50px;
+    width: 200px;
+    height: 50px;
+}
+.tname{
+width: 300px;
+height:350px;
+padding-right: 300px;
+nav-right: 250px;
+}
+.fname{
+width: 300px;
+height:350px;
+padding-right: 300px;
+nav-right: 250px;
+}
+.sname{
+width: 300px;
+height:350px;
+padding-right: 300px;
+nav-right: 250px;
+}
+.first{
+width: 300px;
+height:350px;
+padding-right: 300px;
+nav-right: 250px;
+}
+.n1{
+    color:#A13695;
+}
+.n2{
+    color:#A13695;
+}
+.n3{
+    color:#A13695;
+}
